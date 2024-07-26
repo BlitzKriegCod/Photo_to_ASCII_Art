@@ -1,8 +1,8 @@
-# Documentación del Script de Conversión de Imágenes
+# Documentación del Script de Conversión de Imágenes 🖼️
 
-Este script permite convertir imágenes a escala de grises y representarlas mediante caracteres ASCII. Es útil para existir y nada mas pero me parece interesante el ASCII Art y queria intentar algo 
+Este script permite convertir imágenes a escala de grises y representarlas mediante caracteres ASCII.Me fascina el arte ASCII y quería explorar algo.
 
-## Funciones Principales
+## Funciones Principales 🔧
 
 ### `Img_Convert(path)`
 
@@ -24,9 +24,7 @@ Función principal que maneja la interacción con el usuario. Permite al usuario
 4. La imagen se convierte utilizando `Img_Convert`.
 5. Si elige salir, el programa termina.
 
-## Ejecución del Script
+## Ejecución del Script 🚀
 
 Para ejecutar este script, asegúrate de tener instalados los paquetes necesarios (`PIL`, `numpy`). Puedes instalarlos usando pip:
-Una vez instalados los paquetes, guarda el script en un archivo `.py` y ejecútalo desde la línea de comandos:
-El script iniciará mostrando un menú de opciones. Sigue las instrucciones en pantalla para convertir una imagen o salir del programa.
 
